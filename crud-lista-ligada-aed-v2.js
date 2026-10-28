@@ -187,7 +187,7 @@ Questão 8 (Array do listarTodos):
 Não, o array retornado serve apenas como estrutura temporária para
 formatar a exibição no console.
 
-Questão 9 (Complexidade): A complexidade da listagem é $\mathcal{O}(n)$, 
+Questão 9 (Complexidade): A complexidade da listagem é, 
 pois é preciso percorrer todos os $n$ nós.
  * 
  */
