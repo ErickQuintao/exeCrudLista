@@ -173,21 +173,3 @@ function menu(lista) {
 const minhaLista = criarLista();
 menu(minhaLista);
 
-/**
- Questão 6 (Condição de término):
-A condição atual === null indica que todos os nós foram visitados. 
-Para parar no último nó, usa-se atual.proximo === null.
-
-Questão 7 (Incrementar a posição): O incremento (posicao++) é 
-necessário para identificar numericamente a posição de cada 
-elemento na exibição, já que a lista ligada não possui índices
-fixos na memória .
-
-Questão 8 (Array do listarTodos): 
-Não, o array retornado serve apenas como estrutura temporária para
-formatar a exibição no console.
-
-Questão 9 (Complexidade): A complexidade da listagem é, 
-pois é preciso percorrer todos os $n$ nós.
- * 
- */
